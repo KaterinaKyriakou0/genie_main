@@ -1,0 +1,255 @@
+┌ Info: 2026-04-17 10:01:46 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-17 10:01:47 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-17 10:01:47 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-17 10:01:47 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 10:02:16 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-17 10:02:20 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-17 10:02:20 Type mismatch when restoring field 'projection_choice'.
+│     Expected 'Int64' found 'Nothing'.
+│     Skipping restoration of this field.
+└ @ Stipple.ModelStorage.Sessions /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/ModelStorage.jl:112
+┌ Info: 2026-04-17 10:02:27 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 10:02:27 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-17 10:03:32 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-17 14:01:17 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-17 14:25:34 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:25:34 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-17 14:25:57 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:25:58 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Error: 2026-04-17 14:25:59 MethodError: objects of type Float64 are not callable
+│ The object of type `Float64` exists, but no method is defined for this combination of argument types when trying to treat it as a callable object.
+│ Maybe you forgot to use an operator such as *, ^, %, / etc. ?
+│ Stacktrace:
+│   [1] Main_ReactiveModel!_1()
+│     @ Main ~/.julia/packages/Stipple/ILab8/src/Stipple.jl:1265
+│   [2] |>
+│     @ ./operators.jl:972 [inlined]
+│   [3] init(t::Type{Main_ReactiveModel}; vue_app_name::String, endpoint::String, channel::Any, debounce::Int64, throttle::Int64, transport::Module, core_theme::Bool, always_register_channels::Bool)
+│     @ Stipple ~/.julia/packages/Stipple/ILab8/src/Stipple.jl:586
+│   [4] init_from_storage(t::Type{Main_ReactiveModel}; channel::String, kwargs::@Kwargs{debounce::Int64, throttle::Int64, transport::Module, core_theme::Bool})
+│     @ Stipple.ModelStorage.Sessions ~/.julia/packages/Stipple/ILab8/src/ModelStorage.jl:90
+│   [5] init_model(::Type{Main_ReactiveModel}; kwargs::@Kwargs{debounce::Int64, throttle::Int64, transport::Module, core_theme::Bool})
+│     @ Stipple.ReactiveTools ~/.julia/packages/Stipple/ILab8/src/ReactiveTools.jl:761
+│   [6] (::Stipple.Pages.var"#8#9"{typeof(ui), String, Module, Int64, Int64, Module, Bool, @Kwargs{include_themes::Bool, include_deps::Bool}, Page})()
+│     @ Stipple.Pages ~/.julia/packages/Stipple/ILab8/src/Pages.jl:80
+│   [7] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:547
+│   [8] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:172
+│   [9] route_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Router.jl:147 [inlined]
+│  [10] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:321
+│  [11] handle_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:313 [inlined]
+│  [12] (::Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/macros.jl:126
+│  [13] #local_remotecall_thunk##0
+│     @ ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#local_remotecall_thunk##0#local_remotecall_thunk##1"{Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/process_messages.jl:70
+│  [15] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:363
+│  [16] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:363 [inlined]
+│  [17] (::Genie.Server.var"#streamhandler##0#streamhandler##1"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:334
+│  [18] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:354
+│  [19] (::Genie.Server.var"#15#16")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:125
+│  [20] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing, verbose::Bool)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:469
+│  [21] (::HTTP.Servers.var"#listenloop##0#listenloop##1"{Genie.Server.var"#15#16", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Bool, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:400
+│ 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:377
+┌ Info: 2026-04-17 14:27:16 Could not infer type of show_graticule, setting it to `Any`, consider adding a type annotation
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/stipple/reactivity.jl:371
+┌ Info: 2026-04-17 14:27:18 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-17 14:27:18 Could not infer type of my_plot, setting it to `Any`, consider adding a type annotation
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/stipple/reactivity.jl:371
+┌ Info: 2026-04-17 14:27:20 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:27:58 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:28:00 Could not infer type of show_graticule, setting it to `Any`, consider adding a type annotation
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/stipple/reactivity.jl:371
+┌ Info: 2026-04-17 14:28:00 Could not infer type of plot_data, setting it to `Any`, consider adding a type annotation
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/stipple/reactivity.jl:371
+┌ Info: 2026-04-17 14:28:07 Could not infer type of show_graticule, setting it to `Any`, consider adding a type annotation
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/stipple/reactivity.jl:371
+┌ Info: 2026-04-17 14:28:07 Could not infer type of plot_data, setting it to `Any`, consider adding a type annotation
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/stipple/reactivity.jl:371
+┌ Info: 2026-04-17 14:28:38 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:28:43 Could not infer type of show_graticule, setting it to `Any`, consider adding a type annotation
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/stipple/reactivity.jl:371
+┌ Info: 2026-04-17 14:28:43 Could not infer type of map_plot, setting it to `Any`, consider adding a type annotation
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/stipple/reactivity.jl:371
+┌ Info: 2026-04-17 14:29:31 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-17 14:29:31 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-17 14:29:32 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-17 14:29:32 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:29:50 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-17 14:30:07 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:30:09 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-17 14:30:13 Type mismatch when restoring field 'projection_choice'.
+│     Expected 'Int64' found 'Nothing'.
+│     Skipping restoration of this field.
+└ @ Stipple.ModelStorage.Sessions /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/ModelStorage.jl:112
+┌ Info: 2026-04-17 14:30:13 Type mismatch when restoring field 'lon_step_choice'.
+│     Expected 'Plot' found 'Int64'.
+│     Skipping restoration of this field.
+└ @ Stipple.ModelStorage.Sessions /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/ModelStorage.jl:112
+┌ Info: 2026-04-17 14:31:32 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:31:32 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-17 14:31:33 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-17 14:32:02 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-17 14:32:05 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-17 14:32:05 Type mismatch when restoring field 'projection_choice'.
+│     Expected 'Int64' found 'Nothing'.
+│     Skipping restoration of this field.
+└ @ Stipple.ModelStorage.Sessions /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/ModelStorage.jl:112
+┌ Info: 2026-04-17 14:46:26 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:46:26 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-17 14:46:32 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:46:32 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-17 14:48:08 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:48:08 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-17 14:49:20 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:49:20 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:49:20 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-17 14:49:21 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-17 14:50:25 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:50:25 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:50:25 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-17 14:50:26 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-17 14:50:29 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-17 14:50:55 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:50:55 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:50:55 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-17 14:55:20 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:55:20 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:55:20 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-17 14:55:45 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:55:45 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-17 14:55:45 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Error: 2026-04-17 14:55:45 UndefVarError: `plotly` not defined in `Main`
+│ Hint: It looks like two or more modules export different bindings with this name, resulting in ambiguity. Try explicitly importing it from a particular module, or qualifying the name with the module it should come from.
+│ Hint: a global variable of this name also exists in Plots.
+│ Hint: a global variable of this name also exists in StipplePlotly.Charts.
+│     - Also exported by StipplePlotly.
+│     - Also exported by GenieFramework.
+│ Stacktrace:
+│   [1] ui()
+│     @ Main ~/Desktop/genie/app2.jl:125
+│   [2] html!(data::typeof(ui); context::Module, status::Int64, headers::Dict{String, String}, layout::String, forceparse::Bool, noparse::Bool, vars::@Kwargs{model::Main_ReactiveModel!_1, include_themes::Bool, include_deps::Bool})
+│     @ Genie.Renderer.Html ~/.julia/packages/Genie/gbJnH/src/renderers/Html.jl:598
+│   [3] (::Stipple.Pages.var"#8#9"{typeof(ui), String, Module, Int64, Int64, Module, Bool, @Kwargs{include_themes::Bool, include_deps::Bool}, Page})()
+│     @ Stipple.Pages ~/.julia/packages/Stipple/ILab8/src/Pages.jl:90
+│   [4] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:547
+│   [5] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:172
+│   [6] route_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Router.jl:147 [inlined]
+│   [7] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:321
+│   [8] handle_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:313 [inlined]
+│   [9] (::Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/macros.jl:126
+│  [10] #local_remotecall_thunk##0
+│     @ ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/remotecall.jl:425 [inlined]
+│  [11] run_work_thunk(thunk::Distributed.var"#local_remotecall_thunk##0#local_remotecall_thunk##1"{Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/process_messages.jl:70
+│  [12] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:363
+│  [13] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:363 [inlined]
+│  [14] (::Genie.Server.var"#streamhandler##0#streamhandler##1"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:334
+│  [15] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:354
+│  [16] (::Genie.Server.var"#15#16")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:125
+│  [17] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing, verbose::Bool)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:469
+│  [18] (::HTTP.Servers.var"#listenloop##0#listenloop##1"{Genie.Server.var"#15#16", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Bool, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:400
+│ 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:377
+┌ Info: 2026-04-17 14:55:47 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-17 14:55:51 Type mismatch when restoring field 'plot_html'.
+│     Expected 'Plot{Vector{GenericTrace{Dict{Symbol, Any}}}, PlotlyBase.Layout{Dict{Symbol, Any}}, Vector{PlotlyFrame}}' found 'String'.
+│     Skipping restoration of this field.
+└ @ Stipple.ModelStorage.Sessions /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/ModelStorage.jl:112
+┌ Info: 2026-04-17 14:56:23 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-17 14:56:25 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-17 14:56:25 Type mismatch when restoring field 'projection_choice'.
+│     Expected 'Int64' found 'Nothing'.
+│     Skipping restoration of this field.
+└ @ Stipple.ModelStorage.Sessions /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/ModelStorage.jl:112
+┌ Info: 2026-04-17 17:48:59 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-17 17:49:00 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-17 17:49:00 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-17 17:49:00 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22

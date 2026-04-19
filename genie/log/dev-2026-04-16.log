@@ -1,0 +1,1317 @@
+┌ Info: 2026-04-16 16:21:56 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 16:21:57 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:21:57 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 16:21:57 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:22:17 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:22:17 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:22:47 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 16:22:47 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:22:47 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 16:22:48 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:23:46 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:23:47 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:24:22 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 16:24:23 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:24:23 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 16:24:23 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:24:46 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:25:10 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:25:10 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:25:14 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:25:18 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:29:35 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:29:35 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:29:35 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:29:36 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:29:39 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:29:39 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:29:54 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 16:29:54 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:29:54 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 16:29:55 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:30:53 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:30:53 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:30:55 Could not infer type of map_plot, setting it to `Any`, consider adding a type annotation
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/stipple/reactivity.jl:371
+┌ Info: 2026-04-16 16:30:55 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:30:59 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Error: 2026-04-16 16:31:00 UndefVarError: `Layout` not defined in `Main`
+│ Hint: It looks like two or more modules export different bindings with this name, resulting in ambiguity. Try explicitly importing it from a particular module, or qualifying the name with the module it should come from.
+│ Hint: a global variable of this name also exists in Stipple.
+│     - Also exported by GenieFramework.
+│ Hint: a global variable of this name also exists in PlotlyBase.
+│ Stacktrace:
+│   [1] make_map(projection::String)
+│     @ Main ~/Desktop/genie/app2.jl:115
+│   [2] Main_ReactiveModel!_1()
+│     @ Main ~/.julia/packages/Stipple/ILab8/src/Stipple.jl:1265
+│   [3] |>
+│     @ ./operators.jl:972 [inlined]
+│   [4] init(t::Type{Main_ReactiveModel}; vue_app_name::String, endpoint::String, channel::Any, debounce::Int64, throttle::Int64, transport::Module, core_theme::Bool, always_register_channels::Bool)
+│     @ Stipple ~/.julia/packages/Stipple/ILab8/src/Stipple.jl:586
+│   [5] init_from_storage(t::Type{Main_ReactiveModel}; channel::String, kwargs::@Kwargs{debounce::Int64, throttle::Int64, transport::Module, core_theme::Bool})
+│     @ Stipple.ModelStorage.Sessions ~/.julia/packages/Stipple/ILab8/src/ModelStorage.jl:90
+│   [6] init_model(::Type{Main_ReactiveModel}; kwargs::@Kwargs{debounce::Int64, throttle::Int64, transport::Module, core_theme::Bool})
+│     @ Stipple.ReactiveTools ~/.julia/packages/Stipple/ILab8/src/ReactiveTools.jl:761
+│   [7] (::Stipple.Pages.var"#8#9"{typeof(ui), String, Module, Int64, Int64, Module, Bool, @Kwargs{include_themes::Bool, include_deps::Bool}, Page})()
+│     @ Stipple.Pages ~/.julia/packages/Stipple/ILab8/src/Pages.jl:80
+│   [8] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:547
+│   [9] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:172
+│  [10] route_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Router.jl:147 [inlined]
+│  [11] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:321
+│  [12] handle_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:313 [inlined]
+│  [13] (::Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/macros.jl:126
+│  [14] #local_remotecall_thunk##0
+│     @ ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/remotecall.jl:425 [inlined]
+│  [15] run_work_thunk(thunk::Distributed.var"#local_remotecall_thunk##0#local_remotecall_thunk##1"{Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/process_messages.jl:70
+│  [16] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:363
+│  [17] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:363 [inlined]
+│  [18] (::Genie.Server.var"#streamhandler##0#streamhandler##1"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:334
+│  [19] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:354
+│  [20] (::Genie.Server.var"#15#16")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:125
+│  [21] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing, verbose::Bool)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:469
+│  [22] (::HTTP.Servers.var"#listenloop##0#listenloop##1"{Genie.Server.var"#15#16", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Bool, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:400
+│ 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:377
+┌ Error: 2026-04-16 16:31:10 UndefVarError: `Layout` not defined in `Main`
+│ Hint: It looks like two or more modules export different bindings with this name, resulting in ambiguity. Try explicitly importing it from a particular module, or qualifying the name with the module it should come from.
+│ Hint: a global variable of this name also exists in Stipple.
+│     - Also exported by GenieFramework.
+│ Hint: a global variable of this name also exists in PlotlyBase.
+│ Stacktrace:
+│   [1] make_map(projection::String)
+│     @ Main ~/Desktop/genie/app2.jl:115
+│   [2] Main_ReactiveModel!_1()
+│     @ Main ~/.julia/packages/Stipple/ILab8/src/Stipple.jl:1265
+│   [3] |>
+│     @ ./operators.jl:972 [inlined]
+│   [4] init(t::Type{Main_ReactiveModel}; vue_app_name::String, endpoint::String, channel::Any, debounce::Int64, throttle::Int64, transport::Module, core_theme::Bool, always_register_channels::Bool)
+│     @ Stipple ~/.julia/packages/Stipple/ILab8/src/Stipple.jl:586
+│   [5] init_from_storage(t::Type{Main_ReactiveModel}; channel::String, kwargs::@Kwargs{debounce::Int64, throttle::Int64, transport::Module, core_theme::Bool})
+│     @ Stipple.ModelStorage.Sessions ~/.julia/packages/Stipple/ILab8/src/ModelStorage.jl:90
+│   [6] init_model(::Type{Main_ReactiveModel}; kwargs::@Kwargs{debounce::Int64, throttle::Int64, transport::Module, core_theme::Bool})
+│     @ Stipple.ReactiveTools ~/.julia/packages/Stipple/ILab8/src/ReactiveTools.jl:761
+│   [7] (::Stipple.Pages.var"#8#9"{typeof(ui), String, Module, Int64, Int64, Module, Bool, @Kwargs{include_themes::Bool, include_deps::Bool}, Page})()
+│     @ Stipple.Pages ~/.julia/packages/Stipple/ILab8/src/Pages.jl:80
+│   [8] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:547
+│   [9] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:172
+│  [10] route_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Router.jl:147 [inlined]
+│  [11] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:321
+│  [12] handle_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:313 [inlined]
+│  [13] (::Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/macros.jl:126
+│  [14] #local_remotecall_thunk##0
+│     @ ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/remotecall.jl:425 [inlined]
+│  [15] run_work_thunk(thunk::Distributed.var"#local_remotecall_thunk##0#local_remotecall_thunk##1"{Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/process_messages.jl:70
+│  [16] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:363
+│  [17] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:363 [inlined]
+│  [18] (::Genie.Server.var"#streamhandler##0#streamhandler##1"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:334
+│  [19] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:354
+│  [20] (::Genie.Server.var"#15#16")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:125
+│  [21] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing, verbose::Bool)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:469
+│  [22] (::HTTP.Servers.var"#listenloop##0#listenloop##1"{Genie.Server.var"#15#16", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Bool, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:400
+│ 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:377
+┌ Info: 2026-04-16 16:32:48 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 16:32:48 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:32:48 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 16:32:49 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:33:57 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:33:57 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:33:58 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:34:01 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:34:01 Type mismatch when restoring field 'projection_choice'.
+│     Expected 'String' found 'Int64'.
+│     Skipping restoration of this field.
+└ @ Stipple.ModelStorage.Sessions /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/ModelStorage.jl:112
+┌ Info: 2026-04-16 16:34:01 Type mismatch when restoring field 'plot_url'.
+│     Expected 'Plot{Vector{GenericTrace{Dict{Symbol, Any}}}, PlotlyBase.Layout{Dict{Symbol, Any}}, Vector{PlotlyFrame}}' found 'String'.
+│     Skipping restoration of this field.
+└ @ Stipple.ModelStorage.Sessions /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/ModelStorage.jl:112
+┌ Info: 2026-04-16 16:34:56 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:34:56 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:35:09 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 16:35:09 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:35:09 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 16:35:10 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:37:02 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:37:02 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:37:03 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:39:36 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:39:36 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:39:37 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:39:42 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:40:13 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:40:13 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:41:14 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:41:14 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:41:33 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 16:41:34 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:41:34 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 16:41:34 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Error: 2026-04-16 16:41:40 UndefVarError: `projection_choice` not defined in `Main`
+│ Suggestion: check for spelling errors or missing imports.
+│ Stacktrace:
+│   [1] __GF_AUTO_HANDLERS__(__model__::Main_ReactiveModel!_1)
+│     @ Main ~/.julia/packages/Stipple/ILab8/src/ReactiveTools.jl:201
+│   [2] |>(x::Main_ReactiveModel!_1, f::typeof(__GF_AUTO_HANDLERS__))
+│     @ Base ./operators.jl:972
+│   [3] init_model(::Type{Main_ReactiveModel}; kwargs::@Kwargs{debounce::Int64, throttle::Int64, transport::Module, core_theme::Bool})
+│     @ Stipple.ReactiveTools ~/.julia/packages/Stipple/ILab8/src/ReactiveTools.jl:763
+│   [4] (::Stipple.Pages.var"#8#9"{typeof(ui), String, Module, Int64, Int64, Module, Bool, @Kwargs{include_themes::Bool, include_deps::Bool}, Page})()
+│     @ Stipple.Pages ~/.julia/packages/Stipple/ILab8/src/Pages.jl:80
+│   [5] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:547
+│   [6] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:172
+│   [7] route_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Router.jl:147 [inlined]
+│   [8] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:321
+│   [9] handle_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:313 [inlined]
+│  [10] (::Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/macros.jl:126
+│  [11] #local_remotecall_thunk##0
+│     @ ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/remotecall.jl:425 [inlined]
+│  [12] run_work_thunk(thunk::Distributed.var"#local_remotecall_thunk##0#local_remotecall_thunk##1"{Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/process_messages.jl:70
+│  [13] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:363
+│  [14] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:363 [inlined]
+│  [15] (::Genie.Server.var"#streamhandler##0#streamhandler##1"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:334
+│  [16] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:354
+│  [17] (::Genie.Server.var"#15#16")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:125
+│  [18] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing, verbose::Bool)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:469
+│  [19] (::HTTP.Servers.var"#listenloop##0#listenloop##1"{Genie.Server.var"#15#16", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Bool, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:400
+│ 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:377
+┌ Info: 2026-04-16 16:42:06 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:42:08 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:45:38 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:45:38 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:45:48 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:45:50 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:47:03 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:47:03 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:47:09 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:47:09 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:47:11 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:47:15 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:48:08 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:48:08 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:48:09 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:49:24 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:49:24 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:49:44 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:49:58 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:49:58 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:50:14 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:50:14 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:50:16 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:50:32 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:50:32 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:50:32 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:50:37 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:50:37 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:50:38 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:50:39 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:50:42 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:50:42 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:50:44 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:50:45 Re-attaching handlers to model Main_ReactiveModel and updating values
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:688
+┌ Info: 2026-04-16 16:51:15 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 16:51:16 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:51:16 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 16:51:16 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:54:17 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:54:17 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:54:19 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:54:22 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:54:50 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:54:50 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:56:33 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:56:33 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:56:34 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:56:38 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:57:04 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 16:57:04 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:57:05 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 16:57:05 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 16:58:14 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 16:58:23 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:00:08 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:02:10 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:02:10 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:02:12 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:02:15 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:04:11 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:04:11 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:04:49 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:04:49 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:04:50 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:04:53 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:05:37 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 17:05:37 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:05:37 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 17:05:38 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:06:32 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:06:32 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:06:34 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:06:53 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 17:06:53 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:06:53 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 17:06:53 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:07:50 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:07:51 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:07:52 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:07:54 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:08:46 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 17:08:46 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:08:46 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 17:08:47 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:09:15 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:09:18 Web Server starting at http://0.0.0.0:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:09:18 Listening on: 0.0.0.0:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 17:09:43 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:09:44 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:09:44 Web Server starting at http://0.0.0.0:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:10:01 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:10:01 Type mismatch when restoring field 'projection_choice'.
+│     Expected 'String' found 'Int64'.
+│     Skipping restoration of this field.
+└ @ Stipple.ModelStorage.Sessions /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/ModelStorage.jl:112
+┌ Info: 2026-04-16 17:10:29 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:10:29 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:10:30 Web Server starting at http://0.0.0.0:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:10:36 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:10:57 Web Server starting at http://0.0.0.0:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:10:59 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:11:20 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:11:20 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:11:21 Web Server starting at http://0.0.0.0:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:11:24 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:11:40 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:11:40 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:11:51 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:11:51 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:11:52 Web Server starting at http://0.0.0.0:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:11:55 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:14:30 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:14:30 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:14:40 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:15:51 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:17:26 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:17:26 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:18:32 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 17:18:33 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:18:33 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 17:18:33 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:19:19 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:19:19 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:19:20 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:19:56 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:19:56 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:21:30 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:21:30 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:21:31 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:21:57 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:22:00 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:23:57 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:23:57 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:23:58 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:24:12 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:24:12 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:24:14 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:25:02 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:25:05 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:25:26 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:25:26 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:25:29 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:25:40 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:25:42 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:26:20 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:26:20 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:26:22 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:26:24 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:27:13 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:27:13 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:27:15 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:27:17 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:29:05 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:29:07 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:29:07 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:29:12 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:30:00 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:30:00 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:30:37 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:30:37 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:30:39 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:30:43 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:31:38 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:31:38 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:31:39 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:33:14 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:33:14 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:33:16 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:34:34 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:34:34 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:34:35 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:34:58 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:34:58 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:35:03 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:37:17 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:37:17 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:37:26 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:38:05 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:38:05 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:38:10 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:38:38 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:38:38 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:38:42 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:39:14 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:39:14 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:39:18 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:40:37 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:40:37 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:40:43 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:41:21 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:41:21 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:41:31 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:42:10 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:42:10 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:42:41 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 17:42:42 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:42:51 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 17:42:52 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:43:33 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:43:49 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 17:43:50 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:44:11 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:44:41 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 17:44:43 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:45:07 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:45:08 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:45:08 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 17:45:21 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:45:52 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:45:53 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Error: 2026-04-16 17:45:59 UndefVarError: `div` not defined in `Main`
+│ Hint: It looks like two or more modules export different bindings with this name, resulting in ambiguity. Try explicitly importing it from a particular module, or qualifying the name with the module it should come from.
+│ Hint: a global variable of this name also exists in Base.
+│ Stacktrace:
+│   [1] ui()
+│     @ Main ~/Desktop/genie/app2.jl:112
+│   [2] html!(data::typeof(ui); context::Module, status::Int64, headers::Dict{String, String}, layout::String, forceparse::Bool, noparse::Bool, vars::@Kwargs{model::Main_ReactiveModel!_1, include_themes::Bool, include_deps::Bool})
+│     @ Genie.Renderer.Html ~/.julia/packages/Genie/gbJnH/src/renderers/Html.jl:598
+│   [3] (::Stipple.Pages.var"#8#9"{typeof(ui), String, Module, Int64, Int64, Module, Bool, @Kwargs{include_themes::Bool, include_deps::Bool}, Page})()
+│     @ Stipple.Pages ~/.julia/packages/Stipple/ILab8/src/Pages.jl:90
+│   [4] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:547
+│   [5] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:172
+│   [6] route_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Router.jl:147 [inlined]
+│   [7] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:321
+│   [8] handle_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:313 [inlined]
+│   [9] (::Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/macros.jl:126
+│  [10] #local_remotecall_thunk##0
+│     @ ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/remotecall.jl:425 [inlined]
+│  [11] run_work_thunk(thunk::Distributed.var"#local_remotecall_thunk##0#local_remotecall_thunk##1"{Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/process_messages.jl:70
+│  [12] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:363
+│  [13] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:363 [inlined]
+│  [14] (::Genie.Server.var"#streamhandler##0#streamhandler##1"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:334
+│  [15] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:354
+│  [16] (::Genie.Server.var"#15#16")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:125
+│  [17] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing, verbose::Bool)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:469
+│  [18] (::HTTP.Servers.var"#listenloop##0#listenloop##1"{Genie.Server.var"#15#16", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Bool, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:400
+│ 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:377
+┌ Error: 2026-04-16 17:46:00 UndefVarError: `div` not defined in `Main`
+│ Hint: It looks like two or more modules export different bindings with this name, resulting in ambiguity. Try explicitly importing it from a particular module, or qualifying the name with the module it should come from.
+│ Hint: a global variable of this name also exists in Base.
+│ Stacktrace:
+│   [1] ui()
+│     @ Main ~/Desktop/genie/app2.jl:112
+│   [2] html!(data::typeof(ui); context::Module, status::Int64, headers::Dict{String, String}, layout::String, forceparse::Bool, noparse::Bool, vars::@Kwargs{model::Main_ReactiveModel!_1, include_themes::Bool, include_deps::Bool})
+│     @ Genie.Renderer.Html ~/.julia/packages/Genie/gbJnH/src/renderers/Html.jl:598
+│   [3] (::Stipple.Pages.var"#8#9"{typeof(ui), String, Module, Int64, Int64, Module, Bool, @Kwargs{include_themes::Bool, include_deps::Bool}, Page})()
+│     @ Stipple.Pages ~/.julia/packages/Stipple/ILab8/src/Pages.jl:90
+│   [4] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:547
+│   [5] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:172
+│   [6] route_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Router.jl:147 [inlined]
+│   [7] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:321
+│   [8] handle_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:313 [inlined]
+│   [9] (::Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/macros.jl:126
+│  [10] #local_remotecall_thunk##0
+│     @ ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/remotecall.jl:425 [inlined]
+│  [11] run_work_thunk(thunk::Distributed.var"#local_remotecall_thunk##0#local_remotecall_thunk##1"{Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/process_messages.jl:70
+│  [12] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:363
+│  [13] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:363 [inlined]
+│  [14] (::Genie.Server.var"#streamhandler##0#streamhandler##1"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:334
+│  [15] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:354
+│  [16] (::Genie.Server.var"#15#16")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:125
+│  [17] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing, verbose::Bool)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:469
+│  [18] (::HTTP.Servers.var"#listenloop##0#listenloop##1"{Genie.Server.var"#15#16", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Bool, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:400
+│ 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:377
+┌ Info: 2026-04-16 17:46:19 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:46:22 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:47:46 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:47:46 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:47:48 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:47:51 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:50:48 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:50:48 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:50:49 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:50:53 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:51:21 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:53:05 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:53:05 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:53:20 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:53:22 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:54:15 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:54:15 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:54:16 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:54:53 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:54:53 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:55:02 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:55:26 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 17:55:26 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 17:55:43 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 17:55:44 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 17:55:44 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 17:55:44 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:47:10 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 18:47:10 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 18:47:10 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 18:47:11 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:47:59 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 18:51:26 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 18:51:26 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 18:51:26 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 18:51:27 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:53:34 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 18:53:35 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 18:53:35 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 18:53:35 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:54:15 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:54:15 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 18:54:23 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:54:23 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 18:54:34 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:54:34 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 18:54:35 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:54:37 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:54:37 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 18:54:44 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:54:44 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 18:54:55 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:54:55 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 18:55:47 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:55:47 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:55:47 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:55:47 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:55:48 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 18:55:53 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 18:55:55 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 18:55:57 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 18:58:13 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:58:13 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:58:13 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:58:13 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:58:13 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 18:59:25 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:59:25 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:59:25 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Error: 2026-04-16 18:59:26 MethodError: objects of type Float64 are not callable
+│ The object of type `Float64` exists, but no method is defined for this combination of argument types when trying to treat it as a callable object.
+│ Maybe you forgot to use an operator such as *, ^, %, / etc. ?
+│ Stacktrace:
+│   [1] Main_ReactiveModel!_1()
+│     @ Main ~/.julia/packages/Stipple/ILab8/src/Stipple.jl:1265
+│   [2] |>
+│     @ ./operators.jl:972 [inlined]
+│   [3] init(t::Type{Main_ReactiveModel}; vue_app_name::String, endpoint::String, channel::Any, debounce::Int64, throttle::Int64, transport::Module, core_theme::Bool, always_register_channels::Bool)
+│     @ Stipple ~/.julia/packages/Stipple/ILab8/src/Stipple.jl:586
+│   [4] init_from_storage(t::Type{Main_ReactiveModel}; channel::String, kwargs::@Kwargs{debounce::Int64, throttle::Int64, transport::Module, core_theme::Bool})
+│     @ Stipple.ModelStorage.Sessions ~/.julia/packages/Stipple/ILab8/src/ModelStorage.jl:90
+│   [5] init_model(::Type{Main_ReactiveModel}; kwargs::@Kwargs{debounce::Int64, throttle::Int64, transport::Module, core_theme::Bool})
+│     @ Stipple.ReactiveTools ~/.julia/packages/Stipple/ILab8/src/ReactiveTools.jl:761
+│   [6] (::Stipple.Pages.var"#8#9"{typeof(ui), String, Module, Int64, Int64, Module, Bool, @Kwargs{include_themes::Bool, include_deps::Bool}, Page})()
+│     @ Stipple.Pages ~/.julia/packages/Stipple/ILab8/src/Pages.jl:80
+│   [7] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:547
+│   [8] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:172
+│   [9] route_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Router.jl:147 [inlined]
+│  [10] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:321
+│  [11] handle_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:313 [inlined]
+│  [12] (::Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/macros.jl:126
+│  [13] #local_remotecall_thunk##0
+│     @ ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#local_remotecall_thunk##0#local_remotecall_thunk##1"{Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/process_messages.jl:70
+│  [15] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:363
+│  [16] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:363 [inlined]
+│  [17] (::Genie.Server.var"#streamhandler##0#streamhandler##1"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:334
+│  [18] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:354
+│  [19] (::Genie.Server.var"#15#16")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:125
+│  [20] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing, verbose::Bool)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:469
+│  [21] (::HTTP.Servers.var"#listenloop##0#listenloop##1"{Genie.Server.var"#15#16", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Bool, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:400
+│ 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:377
+┌ Info: 2026-04-16 18:59:31 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:59:31 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:59:35 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:59:42 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:59:42 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 18:59:55 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 19:00:19 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 19:00:19 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 19:00:19 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 19:00:19 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 19:00:19 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 19:00:37 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 19:00:38 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 19:00:38 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 19:00:38 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 19:03:58 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 19:03:59 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Error: 2026-04-16 19:04:00 MethodError: objects of type Float64 are not callable
+│ The object of type `Float64` exists, but no method is defined for this combination of argument types when trying to treat it as a callable object.
+│ Maybe you forgot to use an operator such as *, ^, %, / etc. ?
+│ Stacktrace:
+│   [1] Main_ReactiveModel!_1()
+│     @ Main ~/.julia/packages/Stipple/ILab8/src/Stipple.jl:1265
+│   [2] |>
+│     @ ./operators.jl:972 [inlined]
+│   [3] init(t::Type{Main_ReactiveModel}; vue_app_name::String, endpoint::String, channel::Any, debounce::Int64, throttle::Int64, transport::Module, core_theme::Bool, always_register_channels::Bool)
+│     @ Stipple ~/.julia/packages/Stipple/ILab8/src/Stipple.jl:586
+│   [4] init_from_storage(t::Type{Main_ReactiveModel}; channel::String, kwargs::@Kwargs{debounce::Int64, throttle::Int64, transport::Module, core_theme::Bool})
+│     @ Stipple.ModelStorage.Sessions ~/.julia/packages/Stipple/ILab8/src/ModelStorage.jl:90
+│   [5] init_model(::Type{Main_ReactiveModel}; kwargs::@Kwargs{debounce::Int64, throttle::Int64, transport::Module, core_theme::Bool})
+│     @ Stipple.ReactiveTools ~/.julia/packages/Stipple/ILab8/src/ReactiveTools.jl:761
+│   [6] (::Stipple.Pages.var"#8#9"{typeof(ui), String, Module, Int64, Int64, Module, Bool, @Kwargs{include_themes::Bool, include_deps::Bool}, Page})()
+│     @ Stipple.Pages ~/.julia/packages/Stipple/ILab8/src/Pages.jl:80
+│   [7] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:547
+│   [8] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:172
+│   [9] route_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Router.jl:147 [inlined]
+│  [10] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:321
+│  [11] handle_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:313 [inlined]
+│  [12] (::Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/macros.jl:126
+│  [13] #local_remotecall_thunk##0
+│     @ ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#local_remotecall_thunk##0#local_remotecall_thunk##1"{Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/process_messages.jl:70
+│  [15] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:363
+│  [16] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:363 [inlined]
+│  [17] (::Genie.Server.var"#streamhandler##0#streamhandler##1"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:334
+│  [18] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:354
+│  [19] (::Genie.Server.var"#15#16")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:125
+│  [20] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing, verbose::Bool)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:469
+│  [21] (::HTTP.Servers.var"#listenloop##0#listenloop##1"{Genie.Server.var"#15#16", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Bool, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:400
+│ 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:377
+┌ Info: 2026-04-16 19:04:03 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 19:04:03 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 19:04:08 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 19:04:08 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Error: 2026-04-16 19:04:17 MethodError: objects of type Float64 are not callable
+│ The object of type `Float64` exists, but no method is defined for this combination of argument types when trying to treat it as a callable object.
+│ Maybe you forgot to use an operator such as *, ^, %, / etc. ?
+│ Stacktrace:
+│   [1] Main_ReactiveModel!_1()
+│     @ Main ~/.julia/packages/Stipple/ILab8/src/Stipple.jl:1265
+│   [2] |>
+│     @ ./operators.jl:972 [inlined]
+│   [3] init(t::Type{Main_ReactiveModel}; vue_app_name::String, endpoint::String, channel::Any, debounce::Int64, throttle::Int64, transport::Module, core_theme::Bool, always_register_channels::Bool)
+│     @ Stipple ~/.julia/packages/Stipple/ILab8/src/Stipple.jl:586
+│   [4] init_from_storage(t::Type{Main_ReactiveModel}; channel::String, kwargs::@Kwargs{debounce::Int64, throttle::Int64, transport::Module, core_theme::Bool})
+│     @ Stipple.ModelStorage.Sessions ~/.julia/packages/Stipple/ILab8/src/ModelStorage.jl:90
+│   [5] init_model(::Type{Main_ReactiveModel}; kwargs::@Kwargs{debounce::Int64, throttle::Int64, transport::Module, core_theme::Bool})
+│     @ Stipple.ReactiveTools ~/.julia/packages/Stipple/ILab8/src/ReactiveTools.jl:761
+│   [6] (::Stipple.Pages.var"#8#9"{typeof(ui), String, Module, Int64, Int64, Module, Bool, @Kwargs{include_themes::Bool, include_deps::Bool}, Page})()
+│     @ Stipple.Pages ~/.julia/packages/Stipple/ILab8/src/Pages.jl:80
+│   [7] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:547
+│   [8] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/gbJnH/src/Router.jl:172
+│   [9] route_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Router.jl:147 [inlined]
+│  [10] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:321
+│  [11] handle_request
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:313 [inlined]
+│  [12] (::Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/macros.jl:126
+│  [13] #local_remotecall_thunk##0
+│     @ ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#local_remotecall_thunk##0#local_remotecall_thunk##1"{Genie.Server.var"#36#37"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.12.5+0.aarch64.apple.darwin14/Julia-1.12.app/Contents/Resources/julia/share/julia/stdlib/v1.12/Distributed/src/process_messages.jl:70
+│  [15] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:363
+│  [16] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/gbJnH/src/Server.jl:363 [inlined]
+│  [17] (::Genie.Server.var"#streamhandler##0#streamhandler##1"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:334
+│  [18] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:354
+│  [19] (::Genie.Server.var"#15#16")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/gbJnH/src/Server.jl:125
+│  [20] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing, verbose::Bool)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:469
+│  [21] (::HTTP.Servers.var"#listenloop##0#listenloop##1"{Genie.Server.var"#15#16", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Bool, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ~/.julia/packages/HTTP/Y97L1/src/Servers.jl:400
+│ 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:377
+┌ Info: 2026-04-16 19:04:18 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 19:04:23 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 19:04:23 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 19:04:23 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 19:05:09 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 19:05:09 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 19:05:09 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 19:05:10 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:16:12 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:16:12 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:16:26 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 20:16:28 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:17:34 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:17:34 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:17:38 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 20:17:41 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:18:35 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:18:35 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:18:36 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 20:18:38 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:19:17 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 20:19:19 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:20:09 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:20:09 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:20:11 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 20:20:13 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:22:08 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:22:08 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:22:52 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 20:22:55 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:23:18 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:23:18 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:23:27 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:23:27 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:23:43 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:23:43 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:23:43 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:23:44 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 20:23:46 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:24:14 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:24:36 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:24:36 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:24:36 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:24:37 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 20:24:53 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 20:24:55 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:25:09 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:25:09 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:25:09 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:25:39 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:25:39 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:25:39 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:26:03 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:26:03 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:26:03 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:26:04 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 20:26:06 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:26:38 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:26:38 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:26:38 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:26:42 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:26:42 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:26:42 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:27:27 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:27:27 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:27:27 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:29:35 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:29:35 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:29:35 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:29:39 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:29:46 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:30:03 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 20:30:05 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:30:49 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:30:52 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 20:30:52 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 20:33:16 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:33:16 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:34:05 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:34:05 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:34:22 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 20:34:23 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 20:34:23 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 20:34:23 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:34:41 Inputs updated: Projection 2, Lon 0.0
+└ @ Main /Users/katherinekyriakou/Desktop/genie/app2.jl:100
+┌ Info: 2026-04-16 20:34:42 Inputs updated: Projection 5, Lon 0.0
+└ @ Main /Users/katherinekyriakou/Desktop/genie/app2.jl:100
+┌ Info: 2026-04-16 20:34:55 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 20:34:57 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:36:17 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:36:17 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:36:18 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 20:36:42 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:36:42 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:36:47 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:36:47 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:36:48 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 20:36:53 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 20:37:26 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 20:37:26 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542
+┌ Info: 2026-04-16 21:20:39 Watching ["/Users/katherinekyriakou/Desktop/genie"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 21:20:39 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 21:20:39 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 21:20:40 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-04-16 21:21:36 Calling finalizers
+└ @ Stipple /Users/katherinekyriakou/.julia/packages/Stipple/ILab8/src/Stipple.jl:542

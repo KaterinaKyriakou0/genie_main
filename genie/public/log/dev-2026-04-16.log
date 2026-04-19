@@ -1,0 +1,8 @@
+┌ Info: 2026-04-16 16:20:18 Watching ["/Users/katherinekyriakou/Desktop/genie-main/public"]
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-04-16 16:20:18 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/katherinekyriakou/.julia/packages/Genie/gbJnH/src/Server.jl:194
+┌ Info: 2026-04-16 16:20:18 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/katherinekyriakou/.julia/packages/HTTP/Y97L1/src/Servers.jl:382
+┌ Info: 2026-04-16 16:20:19 Autoreloading
+└ @ GenieAutoReload /Users/katherinekyriakou/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
